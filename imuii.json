@@ -1,0 +1,11 @@
+{
+  "name": "smartreminderwater",
+  "framework": "react",
+  "language": "typescript",
+  "buildCommand": "vite build",
+  "startCommand": "npm run dev",
+  "domain": "smartreminderwater",
+  "email": "khoirulazmi432@gmail.com",
+  "secretKey": "imuii_f22702fe9555f6e05ec8800765ca72ce914180015c3d2be1fdfda9b85bb8403d",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/smartreminderwater-d549a654.git"
+}
